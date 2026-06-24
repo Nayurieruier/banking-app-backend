@@ -1,0 +1,4 @@
+spring.application.name=demo
+spring.datasource.url=jdbc:sqlserver://localhost\\SQLEXPRESS;databaseName=BankingApp;integratedSecurity=true;encrypt=true;trustServerCertificate=true
+spring.datasource.driver-class-name=com.microsoft.sqlserver.jdbc.SQLServerDriver
+jwt.secret=replace-with-your-own-secret-at-least-32-characters-long
