@@ -99,3 +99,6 @@ This project was built incrementally, with a deliberate focus on understanding e
 - Writing raw JDBC instead of an ORM, to understand connection pooling, prepared statements, and result mapping directly
 - Diagnosing real environment issues (JDBC driver/auth DLL version mismatches, CORS, stale builds) rather than working around them
 - Implementing authorization (not just authentication) as a distinct, necessary layer — verified by attempting to break it
+
+- ## Related repository
+The React frontend for this project is at: https://github.com/Nayurieruier/banking-app-frontend
